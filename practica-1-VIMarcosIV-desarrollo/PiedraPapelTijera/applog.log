@@ -1,0 +1,64 @@
+[main] TRACE Main - Comienza el programa
+[main] TRACE Main - Leemos el archivo de configuración
+[main] TRACE Main - Leemos la configuración de idioma y la cargamos
+[main] TRACE Main - Entramos en el menú inicial
+[main] TRACE Main - Entramos en el juego con la última configuración estabecida
+[main] WARN Main - Si el usuario introduce un número mayor de 4 o algo que no sea un entero el programa crasheara
+[main] TRACE Main - Comienza la partida en dificultad fácil
+[main] TRACE Main - Comienza la partida en dificultad dificil
+[main] WARN Main - Si el usuario introduce un número mayor de 3 o algo que no sea un entero el programa crasheara
+[main] TRACE Main - Acaba la partida
+[main] TRACE Main - Leemos el archivo de configuración
+[main] TRACE Main - Leemos la configuración de idioma y la cargamos
+[main] TRACE Main - Entramos en el menú inicial
+[main] TRACE Main - Entramos en el juego con la última configuración estabecida
+[main] WARN Main - Si el usuario introduce un número mayor de 4 o algo que no sea un entero el programa crasheara
+[main] TRACE Main - Comienza la partida en dificultad fácil
+[main] TRACE Main - Comienza la partida en dificultad dificil
+[main] WARN Main - Si el usuario introduce un número mayor de 3 o algo que no sea un entero el programa crasheara
+[main] TRACE Main - Acaba la partida
+[main] TRACE Main - Leemos el archivo de configuración
+[main] TRACE Main - Leemos la configuración de idioma y la cargamos
+[main] TRACE Main - Entramos en el menú inicial
+[main] TRACE Main - Entramos en el juego con la última configuración estabecida
+[main] WARN Main - Si el usuario introduce un número mayor de 4 o algo que no sea un entero el programa crasheara
+[main] WARN Main - Si el usuario introduce un número mayor de 2 o algo que no sea un entero el programa crasheara
+[main] TRACE Main - Cambiamos la dificultad a Fácil
+[main] TRACE Main - Cambiamos la dificultad a Dificil
+[main] TRACE Main - Leemos el archivo de configuración
+[main] TRACE Main - Leemos la configuración de idioma y la cargamos
+[main] TRACE Main - Entramos en el menú inicial
+[main] TRACE Main - Entramos en el juego con la última configuración estabecida
+[main] WARN Main - Si el usuario introduce un número mayor de 4 o algo que no sea un entero el programa crasheara
+[main] TRACE Main - Leemos el archivo de configuración
+[main] TRACE Main - Leemos la configuración de idioma y la cargamos
+[main] TRACE Main - Entramos en el menú inicial
+[main] TRACE Main - Entramos en el juego con la última configuración estabecida
+[main] WARN Main - Si el usuario introduce un número mayor de 4 o algo que no sea un entero el programa crasheara
+[main] TRACE Main - Entramos en el menu de cambiar idioma
+[main] WARN Main - Si el usuario introduce un número mayor de 2 o algo que no sea un entero el programa crasheara
+[main] TRACE Main - Cambiamos el idioma a Español
+[main] TRACE Main - Cambiamos el idioma a Inglés
+[main] WARN Main - Si el usuario introduce un número mayor de 4 o algo que no sea un entero el programa crasheara
+[main] TRACE Main - Leemos el archivo de configuración
+[main] TRACE Main - Leemos la configuración de idioma y la cargamos
+[main] TRACE Main - Entramos en el menú inicial
+[main] TRACE Main - Entramos en el juego con la última configuración estabecida
+[main] WARN Main - Si el usuario introduce un número mayor de 4 o algo que no sea un entero el programa crasheara
+[main] TRACE Main - Comienza la partida en dificultad fácil
+[main] WARN Main - Si el usuario introduce un número mayor de 3 o algo que no sea un entero el programa crasheara
+[main] TRACE Main - Acaba la partida
+[main] WARN Main - Si el usuario introduce un número mayor de 3 o algo que no sea un entero el programa crasheara
+[main] TRACE Main - Acaba la partida
+[main] WARN Main - Si el usuario introduce un número mayor de 3 o algo que no sea un entero el programa crasheara
+[main] TRACE Main - Acaba la partida
+[main] WARN Main - Si el usuario introduce un número mayor de 3 o algo que no sea un entero el programa crasheara
+[main] TRACE Main - Acaba la partida
+[main] TRACE Main - Leemos el archivo de configuración
+[main] TRACE Main - Leemos la configuración de idioma y la cargamos
+[main] TRACE Main - Entramos en el menú inicial
+[main] TRACE Main - Entramos en el juego con la última configuración estabecida
+[main] WARN Main - Si el usuario introduce un número mayor de 4 o algo que no sea un entero el programa crasheara
+[main] TRACE Main - Comienza la partida en dificultad fácil
+[main] WARN Main - Si el usuario introduce un número mayor de 3 o algo que no sea un entero el programa crasheara
+[main] ERROR Main - Error del programa, probablemente debido a un input mal introducicdo
